@@ -1,6 +1,6 @@
 {
-  "version": "10.0.0",
-  "download_url": "https://github.com/lightscameratech-art/shoot-space-ai/releases/latest/download/Shoot-Space-AI-Universal-v10-Self-Hosted-Windows-macOS-Linux.zip",
-  "sha256": "907d5899575a0d86a57b83d96e4ced249ab35876ad1ed15dc69e9abe0150caa1",
-  "notes": "Commerce presets, transparent WebP, SKU filenames, batch queue, ZIP exports, history, templates, storage tools, hardware estimates, job controls, and optional PIN."
+  "version": "10.1.0",
+  "download_url": "https://github.com/lightscameratech-art/shoot-space-ai/releases/latest/download/Shoot-Space-AI-Universal-v10.1-Self-Hosted-Windows-macOS-Linux.zip",
+  "sha256": "f53ca2fab2a1a3d72f717e8a4bf60734db6cdd097b7df8d3f3b092b79289a527",
+  "notes": "Adds custom width and height output plus a visible Check for updates control."
 }
