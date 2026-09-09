@@ -1,6 +1,6 @@
 {
   "version": "9.0.0",
   "download_url": "https://github.com/lightscameratech-art/shoot-space-ai/releases/latest/download/Shoot-Space-AI-Universal-v9-Self-Hosted-Windows-macOS-Linux.zip",
-  "sha256": "da1cdd6a0282bf2462f350966bbc35625852b5d1250f608eca4e8461f2de1f8d",
+  "sha256": "04c3240ec97048c51fc6ff9fce09ef2201b453879bef680cb21424562c3004a3",
   "notes": "Self-hosted Windows, macOS, and Linux release with automatic updates."
 }
